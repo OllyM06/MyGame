@@ -1,3 +1,3 @@
 Hello!
 
-This is a basic game i made wiht the game engine Love2D
+This is a basic game I made whit the game engine Love2D
